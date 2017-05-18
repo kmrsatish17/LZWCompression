@@ -1,0 +1,2 @@
+# LZWCompression
+ LZW Compression implementation.
